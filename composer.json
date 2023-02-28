@@ -1,5 +1,5 @@
 {
-    "name": "theoaks/laminas-crypt",
+    "name": "laminas/laminas-crypt",
     "type": "library",
     "description": "Strong cryptography tools and password hashing",
     "license": "BSD-3-Clause",
